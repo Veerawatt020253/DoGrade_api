@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.pytest_cache/
+
+# Local reverse-engineering notes may contain real account identifiers.
+SPEC.md
